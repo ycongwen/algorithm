@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdIn;
 
 /**
  * 类型       Ten.java
- * describe
+ * describe 第十个问题
  * Created by ycongwen on 2018/10/12.
  * User ycongwen
  */
